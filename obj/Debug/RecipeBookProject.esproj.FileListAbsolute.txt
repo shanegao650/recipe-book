@@ -1,0 +1,2 @@
+C:\Users\shano\OneDrive\Desktop\Angular Projects\RecipeBookProject\obj\Debug\RecipeBookProject.esproj.SuggestedBindingRedirects.cache
+C:\Users\shano\OneDrive\Desktop\Angular Projects\RecipeBookProject\obj\Debug\RecipeBookProject.esproj.CoreCompileInputs.cache
